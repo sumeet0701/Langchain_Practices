@@ -1,0 +1,7 @@
+langsmith
+langchain-google-genai
+pillow
+langchain
+langchain-core
+streamlit
+dotenv
